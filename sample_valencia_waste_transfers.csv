@@ -1,0 +1,7 @@
+note_id,project_site,ler_code,material_name,dispatched_mass_tons,received_mass_tons,valorized_mass_tons,treatment_operation,virgin_emission_factor_tco2_per_ton,recycling_process_emission_tco2_per_ton
+DI-VLC-2026-001,Eco-Barrio La Pinada (Paterna) - Fase Urbanizacion,17 01 01,Hormigon estructural triturado (Arido reciclado),420.0,416.5,395.0,R5,0.145,0.022
+DI-VLC-2026-002,Woodea Valencia Timber Hub - Estructura CLT,17 02 01,Madera estructural limpia y recortes CLT,95.0,94.2,91.0,R3,0.720,0.065
+DI-VLC-2026-003,Eco-Barrio La Pinada (Paterna) - Cimentacion,17 04 05,Acero corrugado y perfiles metalicos recuperados,130.0,129.1,126.5,R4,1.850,0.410
+DI-VLC-2026-004,Rehabilitacion Sostenible Ciutat Vella,17 09 04,Residuos mezclados de construccion y demolicion,160.0,144.0,82.0,R5,0.210,0.055
+DI-VLC-2026-005,Adecuacion Nave Industrial Paterna,17 05 04,Tierras y piedras de excavacion no contaminadas,210.0,208.0,175.0,R10,0.085,0.015
+DI-VLC-2026-006,Rehabilitacion Sostenible Ciutat Vella,17 08 02,Materiales de construccion a base de yeso (Rechazo),45.0,44.5,0.0,D1,0.180,0.040
